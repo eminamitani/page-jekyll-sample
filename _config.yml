@@ -1,3 +1,4 @@
-theme: jekyll-theme-slate
-title: "研究室ウェブページ　テスト"
-description: "シンプルウェブページテスト"
+#theme: jekyll-theme-slate
+theme: jekyll-theme-cayman
+title: "分子科学研究所　南谷グループ"
+description: "理論・計算分子科学研究領域"

@@ -1,34 +1,24 @@
-## Welcome to test page for Lab
+# Members
 
+### 准教授
+南谷英美 \
+email:`eminamitani_at_ims.ac.jp`
+### 助教
+下出敦夫 \
+email:`shitade_at_ims.ac.jp` \
+[WebSite](https://sites.google.com/view/shitade/)
+### 特任助教
+三輪邦之 \
+email:`kuniyukimiwa_at_ims.ac.jp`\
+[WebSite](https://sites.google.com/site/kmiwahome/)
 
-### Members
+# 研究内容
+凝縮系物理の計算をあれこれ
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eminamitani/page-jekyll-sample/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+# 業績リスト
+## ORCiD
+Emi Minamitani：　https://orcid.org/0000-0002-8003-6526
 
 ### Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+〒444-8585	愛知県岡崎市明大寺町字西郷中３８番地
